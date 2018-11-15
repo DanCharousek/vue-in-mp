@@ -1,0 +1,7 @@
+{
+    "/js/bundle-per-page/home.js": "/js/bundle-per-page/home.js",
+    "/js/bundle-per-page/contact.js": "/js/bundle-per-page/contact.js",
+    "/js/bundle-per-page/about.js": "/js/bundle-per-page/about.js",
+    "/js/bundle-per-app/app.js": "/js/bundle-per-app/app.js",
+    "/js/bundle-per-app-2/app.js": "/js/bundle-per-app-2/app.js"
+}
